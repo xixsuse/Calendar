@@ -1,0 +1,81 @@
+#border-pane {
+	-fx-background-color: rgba(30, 26, 31, 0.8);
+}
+
+#hbox {
+	-fx-font: 14px "System";
+    -fx-font-style: normal;
+    -fx-text-fill: white;
+}
+#weekday-header {
+    -fx-background-color: rgba(30, 26, 31, 0.8);
+    -fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+#weekday-label {
+	-fx-font: 14px "System";
+    -fx-font-style: normal;
+    -fx-text-fill: white;
+}
+
+#calendar-grid {
+	-fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+#month-label {
+	-fx-font: 15px "System";
+    -fx-font-style: normal;
+    -fx-text-fill: white;
+}
+
+#year-label {
+	-fx-font: 15px "System";
+    -fx-font-style: normal;
+    -fx-text-fill: white;
+}
+
+#new-note {
+	-fx-background-color: snow;
+}
+
+#edit-note {
+	-fx-background-color: snow;
+}
+
+#delete-note {
+	-fx-background-color: snow;
+}
+
+#day-label {
+	-fx-font: 12px "Arial";
+	-fx-text-fill: white;
+}
+
+#note-label {
+	-fx-font: 12px "Arial";
+	-fx-text-fill: white;
+}
+
+#title-field {
+	-fx-font: 12px "Arial";
+	-fx-font-weight: bold;
+	-fx-text-fill: white;
+}
+
+#text-field {
+	-fx-font: 12px "Arial";
+	-fx-text-fill: white;
+}
+ 
+#details-area {
+	-fx-font: 12px "Arial";
+}
+
+#noteLabel {
+	-fx-border-style: solid;
+    -fx-border-color: black;
+}
+
+
